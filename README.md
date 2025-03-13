@@ -1,11 +1,13 @@
 Sistema de Gestión de Reservas
 Este proyecto es una aplicación web desarrollada en Java con Servlets y JSP para la gestión de reservas de espacios. Utiliza JPA para la persistencia de datos en una base de datos relacional.
-Características
+Características:
+
 •	Creación, visualización y eliminación de reservas.
 •	Validación de datos en el servidor.
 •	Uso de sesiones para mantener la lista de reservas.
 •	Persistencia de datos con JPA.
 Tecnologías utilizadas
+
 •	Javas
 •	JPA (Java Persistence)
 •	SQL Server (Base de datos)
@@ -13,7 +15,7 @@ Tecnologías utilizadas
 •	Tomcat (Servidor web)
 Instalación y configuración
 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/proyecto-reservas.git
+git clone 
 2. Configurar la base de datos
 •	Crear una base de datos en SQL Server con el nombre Javaweb_db con una tabla llamada reservas o si no el sistema .
 3. Configurar el proyecto en NetBeans
